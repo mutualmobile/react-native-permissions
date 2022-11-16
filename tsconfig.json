@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "jsx": "react-native",
-    "lib": ["ES2016"],
+    "lib": ["ESNext", "DOM"],
     "moduleResolution": "Node",
     "target": "ES5",
 
